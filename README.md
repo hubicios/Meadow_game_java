@@ -9,8 +9,6 @@ To spawn a new organism just press a field . It will show you coordinates of the
 ![Spawn a new organism](https://user-images.githubusercontent.com/43093880/59157041-87418b00-8aa4-11e9-8f75-d701121cbf74.png)
 ## Make a turn
 To make a new turn press enter or the "New turn" button down below.
-![Make a turn](https://user-images.githubusercontent.com/43093880/59156639-0b910f80-8a9f-11e9-989f-f733f30b4c40.png)
-## Game window
 ![Game window](https://user-images.githubusercontent.com/43093880/59157042-87418b00-8aa4-11e9-8620-6c1462722552.png)
 ## Choose board size
 If you've choosen new game you can set board type. Min and max are set from const values to make game reasonable.

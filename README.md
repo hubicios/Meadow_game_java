@@ -10,6 +10,9 @@ To spawn a new organism just press a field . It will show you coordinates of the
 ## Make a turn
 To make a new turn press enter or the "New turn" button down below.
 ![Game window](https://user-images.githubusercontent.com/43093880/59157042-87418b00-8aa4-11e9-8620-6c1462722552.png)
+## Available organisms
+Human has a skill that makes him bounce every attack that was stronger than his strength
+![signs](https://user-images.githubusercontent.com/43093880/59157133-b3114080-8aa5-11e9-8e8e-5709d09c810f.png)
 ## Choose board size
 If you've choosen new game you can set board type. Min and max are set from const values to make game reasonable.
 ![Choose board size](https://user-images.githubusercontent.com/43093880/59157039-87418b00-8aa4-11e9-8fa1-8b556594f204.png)
